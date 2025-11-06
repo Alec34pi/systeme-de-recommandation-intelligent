@@ -10,29 +10,28 @@ Le projet se compose de **5 notebooks Jupyter** constituant un pipeline complet,
 ---
 
 ## Architecture du Projet
-<pre> ```
-TP_Recommandation/
-│
-├── data/
-│ ├── generate_data.py
-│ ├── interactions.csv
-│ ├── products.csv
-│ ├── products_features.csv
-│ ├── users.csv
-│ └── users_features.csv
-│
-├── notebooks/
-│ ├── 00_Guide_Demarrage.ipynb
-│ ├── 01_EDA_starter.ipynb
-│ ├── 02_Features_starter.ipynb
-│ ├── 03_Modeling_starter.ipynb
-│ ├── 04_Evaluation_starter.ipynb
-│ ├── metadata.json
-│ └── README_NOTEBOOKS.txt
-│
-├──  requirements.py
-└── README.md
-``` </pre>
+
+TP_Recommandation/  
+│  
+├── data/  
+│ ├── generate_data.py  
+│ ├── interactions.csv  
+│ ├── products.csv  
+│ ├── products_features.csv  
+│ ├── users.csv  
+│ └── users_features.csv  
+│  
+├── notebooks/  
+│ ├── 00_Guide_Demarrage.ipynb  
+│ ├── 01_EDA_starter.ipynb  
+│ ├── 02_Features_starter.ipynb  
+│ ├── 03_Modeling_starter.ipynb  
+│ ├── 04_Evaluation_starter.ipynb  
+│ ├── metadata.json  
+│ └── README_NOTEBOOKS.txt  
+│  
+├──  requirements.py  
+└── README.md  
 
 
 ---
