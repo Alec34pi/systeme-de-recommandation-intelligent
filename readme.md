@@ -10,7 +10,7 @@ Le projet se compose de **5 notebooks Jupyter** constituant un pipeline complet,
 ---
 
 ## Architecture du Projet
-
+<pre> ```
 TP_Recommandation/
 │
 ├── data/
@@ -32,7 +32,7 @@ TP_Recommandation/
 │
 ├──  requirements.py
 └── README.md
-
+``` </pre>
 
 
 ---
