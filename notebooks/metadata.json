@@ -1,0 +1,25 @@
+{
+  "generation_date": "2025-11-04 10:26:19",
+  "n_users": 5000,
+  "n_products": 1000,
+  "n_interactions": 50000,
+  "date_range": "2023-12-05 10:25:45.743084 to 2025-11-04 10:25:45.743084",
+  "categories": [
+    "Photo",
+    "Ordinateurs",
+    "Accessoires",
+    "Smartphones",
+    "Audio",
+    "Tablettes",
+    "Gaming",
+    "Composants",
+    "Smart Home",
+    "Wearables"
+  ],
+  "interaction_types": [
+    "add_to_cart",
+    "view",
+    "purchase",
+    "review"
+  ]
+}
